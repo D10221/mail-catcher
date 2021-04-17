@@ -1,0 +1,9 @@
+node_modules/
+temp/
+.vscode/
+*.lock
+*.log
+*-lock.json
+*.zip
+*.tar.gz
+*.tgz
